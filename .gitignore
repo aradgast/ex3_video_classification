@@ -3,3 +3,4 @@ wandb/
 lightning_logs/
 __pycache__/
 ex3_video_classification/
+.idea/
